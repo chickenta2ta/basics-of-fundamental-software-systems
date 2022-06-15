@@ -1,0 +1,25 @@
+{
+  "name": "basics-of-fundamental-software-systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenta2ta/basics-of-fundamental-software-systems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickenta2ta/basics-of-fundamental-software-systems/issues"
+  },
+  "homepage": "https://github.com/chickenta2ta/basics-of-fundamental-software-systems#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.28.0",
+    "@typescript-eslint/parser": "^5.28.0",
+    "eslint": "^8.17.0",
+    "prettier": "^2.7.0"
+  }
+}
