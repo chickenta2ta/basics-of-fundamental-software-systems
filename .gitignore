@@ -115,3 +115,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Java
+20220630/bin/
